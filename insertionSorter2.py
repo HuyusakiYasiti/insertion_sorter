@@ -28,7 +28,7 @@ while ins < l:
 
             lis[cmp + 1] = lis[cmp]
 
-            print(lis)
+            print(lis, ins)
 
         else:
 
@@ -42,7 +42,7 @@ while ins < l:
 
     lis[cmp + 1] = temp
 
-    print(lis)
+    print(lis, ins)
 
 
     ins = ins + 1
