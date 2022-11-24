@@ -1,4 +1,4 @@
-import random, time
+import random
 
 
 lis = [random.randint(0, 9) for x in range(10)]
